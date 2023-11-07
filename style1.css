@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+}
+h1{
+    background-color: red;
+    width: 16%;
+    font-size: 50px;
+    color: white;
+}
+li,p{
+    color: white;
+}
+li{
+    background-color: red;
+    width: 14%;
+    font-size: 25px;
+}
+p{
+    background-color: black;
+    width: 14%;
+}

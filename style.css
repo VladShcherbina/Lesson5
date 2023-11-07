@@ -1,0 +1,20 @@
+h1{
+    color: red;
+}
+#color{
+    color: aqua;
+}
+.color{
+    color: antiquewhite;
+}
+.color.text{
+    color: green;
+}
+div>p{
+color: greenyellow;}
+body>p{
+    color: gold;
+}
+#color1.color1{
+    color: violet;
+}
